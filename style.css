@@ -86,7 +86,7 @@ select{
 /* 保存ボタン */
 
 #saveBtn{
-    width:100%;
+    width:49%;
     height:50px;
     background:#43a047;
     color:white;
@@ -101,7 +101,7 @@ select{
 /* リセット */
 
 #resetBtn{
-    width:100%;
+    width:49%;
     height:50px;
     background:#c62828;
     color:white;
